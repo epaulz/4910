@@ -1,0 +1,14 @@
+select *
+from ACCOUNT;
+select *
+from DRIVER;
+select *
+from SPONSOR;
+select *
+from ADMINS;
+select *
+from ITEMS;
+select *
+from PAYCHECKS;
+select *
+from BUYS;
